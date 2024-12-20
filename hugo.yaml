@@ -1,0 +1,46 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: RaeburnDK
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "testTitle" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg" # optional
+    imageTitle: "altTitleCuh" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Github
+        url: "https://github.com/"
+
+#  socialIcons: # optional
+#    - name: "linkedin"
+#      url: "<link>"
+#    - name: "<platform 2>"
+#      url: "<link2>"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
