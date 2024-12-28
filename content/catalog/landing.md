@@ -29,12 +29,6 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-Udklip af BD Energy video
-{{< youtube _om5c9BEgVM >}}
-*Dele af videoen er sløret og lyden er fjernet fordi der er følsomme oplysninger i videoen*
-
-&nbsp;
-
 Slef Clothing promotion video
 {{< youtube pmyP_WG_jOY >}}
 
