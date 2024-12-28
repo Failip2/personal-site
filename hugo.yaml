@@ -1,28 +1,29 @@
-baseURL: https://example.org/
+baseURL: https://filip.raeburn.dk/
 languageCode: en-us
-title: RaeburnDK
-theme: ["PaperMod"]
+title: Raeburn Portfolio
+theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
+enableInlineShortcodes: true
 
 params:
   profileMode:
     enabled: true
-    title: "testTitle" # optional default will be site title
-    subtitle: "This is subtitle"
-    imageUrl: "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg" # optional
-    imageTitle: "altTitleCuh" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    title: "Filip Raeburn" # optional default will be site title
+    subtitle: "Fotograf & Videoproducent"
+    imageUrl: "https://drive.google.com/thumbnail?id=18k9YmPEZQNUGJMTjUcp24wamHn2hws-n&sz=w800" # optional
+    imageTitle: "Foto af Filip Raeburn" # optional
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
     buttons:
-      - name: Cuh
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
+      - name: Portfolio
+        url: "/catalog/landing"
+      - name: CV
+        url: "cv"
 
-#  socialIcons: # optional
-#    - name: "linkedin"
-#      url: "<link>"
-#    - name: "<platform 2>"
-#      url: "<link2>"
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/filip-raeburn-61211433b/"
+    - name: "email"
+      url: "mailto:filip.raeburn@gmail.com"
 outputs:
   home:
     - HTML
