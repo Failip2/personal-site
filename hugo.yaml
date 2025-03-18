@@ -14,10 +14,12 @@ params:
     imageWidth: 300 # custom size
     imageHeight: 300 # custom size
     buttons:
+      - name: "Camera Equipment"
+        url: "/equipment"
       - name: Portfolio
         url: "/catalog/landing"
       - name: CV
-        url: "cv"
+        url: "/cv"
 
   socialIcons: # optional
     - name: "linkedin"
