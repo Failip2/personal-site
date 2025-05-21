@@ -73,7 +73,6 @@ SOHO Holbæk promotion video
 
 ![Katalog billede](https://drive.google.com/thumbnail?id=1N0Bou5PbRIo2FT3gvOkdV-87xZdTDifI&sz=w1600 "Louise")
 
-
 ![Katalog billede](https://drive.google.com/thumbnail?id=1DFxtPI6yzYaSa-PVHLJe3XAFWFO2OeEJ&sz=w1600 "Charlotte Sandy Løb")
 ![Katalog billede](https://drive.google.com/thumbnail?id=1QKIKcsEkV_R9SCGxJRIZ4zwL107POqQW&sz=w1600 "Bar Billede")
 ![Katalog billede](https://drive.google.com/thumbnail?id=101CqsoBqWv5WMoqrufoS6IVZK6FhfkTt&sz=w1600 "Charlotte Vandret")
