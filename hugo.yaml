@@ -4,6 +4,30 @@ title: Raeburn Portfolio
 theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
 enableInlineShortcodes: true
 
+# Required to get well formatted code blocks
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+disablePathToLower: true
+enableGitInfo: true
+
+# Required if you want to render robots.txt template
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    # Needed for mermaid shortcode or when nesting shortcodes (e.g. img within
+    # columns or tabs)
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 9
+
+taxonomies:
+  tag: tags
+
+
+
 params:
   profileMode:
     enabled: true
@@ -16,7 +40,7 @@ params:
     buttons:
       - name: "Camera Equipment"
         url: "/equipment"
-      - name: Portfolio
+      - name: Katalog
         url: "/catalog/landing"
       - name: CV
         url: "/cv"
