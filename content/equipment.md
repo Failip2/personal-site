@@ -31,6 +31,9 @@ w/
 
 [Canon EF-S 18-55mm F3,5-5,6 IS II](https://www.dustinhome.dk/product/5010598679/ef-s-18-5535-56-is-ii)
 
+## Gimbal
+[DJI Ronin-S](https://www.dji.com/ch/ronin-s/info)
+
 ## Video Rig
 
 ![Katalog billede](https://drive.google.com/thumbnail?id=1QQykcxz7Z9lluDtJoMu7ww_lgphM7uTb&sz=w1600 "Katalog billede")
