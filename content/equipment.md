@@ -32,7 +32,7 @@ w/
 [Canon EF-S 18-55mm F3,5-5,6 IS II](https://www.dustinhome.dk/product/5010598679/ef-s-18-5535-56-is-ii)
 
 ## Gimbal
-[DJI Ronin-S](https://www.dji.com/ch/ronin-s/info)
+[DJI Ronin-S](https://www.dustinhome.dk/product/5010598679/ef-s-18-5535-56-is-ii)
 
 ## Video Rig
 
@@ -61,6 +61,14 @@ w/
 ### Lens Filters
 
 [K&F Concept ND2-ND400 VND & Black Diffusion 1/4 82mm w/ stepper-down rings for all lenses](https://dk.kentfaith.com/KF01.2024_82-mm-black-mist-1-4-nd2-400-variabelt-nd-filter-med-dobbeltsidet-28-lags-antirefleks-gr%C3%B8n-film-og-h%C3%A5ndtag-nano-x-serien?gad_source=1&gclid=Cj0KCQjws-S-BhD2ARIsALssG0aQMnEQgT6yJpuwASwk23Z8ROVT8jRqeUkPDXRqCc57rLzYGNaZQCgaAmeBEALw_wcB)
+
+[K&F Concept CPL Magnetic filter 82mm Cirkulær Polarisator Magnetisk Filter Polariserende Filter HD 28 Multi-Layer Coatings Ultra Slim CPL Filter Nano X Series](https://dk.kentfaith.com/SKU.1708_82-mm-cpl-magnetisk-linsefilter-hd-vandt%C3%A6t-ridsefast-antirefleks-nano-x-serien)
+
+[K&F Concept Variable ND2-ND32 Magnetic filter 82mm Variable ND filter（5 Stopps）35-lags belægning Nano X-serien](https://dk.kentfaith.com/KF01.1854_82-mm-magnetisk-variabel-nd2-32-linsefiltre)
+
+[2x K&F Concept 67 mm-82 mm magnetisk linsefilteradapterring](https://dk.kentfaith.com/KF05.304_67-mm-82-mm-magnetisk-linsefilteradapterring?srsltid=AfmBOorrISnxSa9_z8J5KrplvpGhw7oUEO0ixQ_pR3dt2-g-IxhoD0Oh)
+
+[55 mm-82 mm magnetisk linsefilteradapterring](https://dk.kentfaith.com/KF05.301_55-mm-82-mm-magnetisk-linsefilteradapterring)
 
 ### Battery
 
@@ -92,6 +100,8 @@ w/
 
 [Velbon EX-530 Tripod](https://www.proshop.dk/Stativ/Velbon-EX-Series-EX-530/2479968?utm_source=prisjagt&utm_medium=cpc&utm_campaign=pricesite)
 
+[SmallRig 4686 Heavy-Duty Fluid Head Video Tripod Kit AD-01S](https://www.focusnordic.dk/produkter/video/stativer/stativkits/smallrig-4686-heavy-duty-fluid-head-video-tripod-kit-ad-01s)
+
 [DÖRR LS-2000 Lamp Base](https://www.bechfoto.dk/d-rr-ls-2000-lampestativ-basis.html)
 
 2x Cheap knock-off DÖRR LS-2000
@@ -103,3 +113,5 @@ w/
 [Røde Wireless Me Microphone w/ Transmitter & Receiver](https://rode.com/en/microphones/wireless/wireless-me)
 
 [Røde Lavalier GO](https://rode.com/en/microphones/lavalier-wearable/lavalier-go?variant_sku=LAVGO)
+
+[Røde VideoMic Pro+ med Rycote Lyre](https://www.scandinavianphoto.dk/rode/videomic-pro-med-rycote-lyre-1035399)
