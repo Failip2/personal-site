@@ -14,7 +14,7 @@ w/
 
 [Canon RF 28-70mm F2,8 IS STM](https://www.cotswoldcameras.com/Canon-RF-28-70mm-f-28-IS-STM-Lens)
 
-[Canon EF 70-200mm F4L IS USM (EF to RF adapter)](https://www.canon.dk/store/canon-ef-70-200mm-f-4l-is-usm-lens/1258B005/)
+[Canon EF 70-200mm F4L USM (EF to RF adapter)](https://www.canon.dk/store/canon-ef-70-200mm-f-4l-usm-lens/2578A009/)
 
 [Canon EF-S 10-18mm F4-5,6 IS STM (EF to RF adapter)](https://web-tronic.dk/da/item/categoryitem/WEB21449-001)
 
