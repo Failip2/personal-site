@@ -1,6 +1,6 @@
 baseURL: https://filip.raeburn.dk/
 languageCode: en-us
-title: Raeburn Portfolio
+title: mp444studios
 theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
 enableInlineShortcodes: true
 
